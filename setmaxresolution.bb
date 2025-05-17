@@ -58,3 +58,6 @@ Wend
 End
 End Function
 
+;to check how it works uncomment below SetMaxResolution(True)
+;SetMaxResolution(True)
+
