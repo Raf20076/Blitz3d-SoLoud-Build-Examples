@@ -1,9 +1,7 @@
 ;Tested on Blitz3D-V1.118 SoLoud Build (FMOD dependency removed) 
 ;Windows 7 32 bit
-
 ;SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 ;https://github.com/jarikomppa/soloud
-
 ;Blitz3d SoLoud Build
 ;sourcecode
 ;https://github.com/blitz-research/blitz3d_soloud
@@ -13,11 +11,8 @@
 ;https://blitzresearch.itch.io/blitz3d/devlog/793622/blitz3d-v1118-now-available   (Date of release Sep 04, 2024)
 
 
-
 ;Function sets the highest resolution with the highest color depth
-;Code written with ChatGPT help
-;To run function in fullscreen mode use 
-;SetMaxResolution(True)
+
 
 Function SetMaxResolution(fullscreen = True)
 	
