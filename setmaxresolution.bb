@@ -58,11 +58,3 @@ Wend
 End
 End Function
 
-SetMaxResolution(True)
-
-
-;Main loop
-
-
-;~IDEal Editor Parameters:
-;~C#Blitz3D
